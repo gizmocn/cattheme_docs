@@ -92,7 +92,7 @@ div.sidebarTitle {
     color: #015CAE;
 }
 
-li.sidebarTitle {
+#mysidebar li.sidebarTitle {
     margin-top:40px;
     font-weight:normal;
     font-size:130%;

@@ -21,6 +21,17 @@ $( document ).ready(function() {
      */
     anchors.add('h2,h3,h4,h5');
 
+    $('.opennav').click(function () {
+        if($('#mysidebar').hasClass('active')){
+            $(this).removeClass('active');
+        }
+        $('#mysidebar').addClass('active');
+    });
+
+    $('.closebtn').click(function () {
+        $('#mysidebar').removeClass('active');
+    });
+
 });
 
 // needed for nav tabs on pages. See Formatting > Nav tabs for more details.
@@ -53,3 +64,4 @@ $(function() {
         }
     });
 });
+
