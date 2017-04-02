@@ -13,6 +13,9 @@
 {% elsif page.sidebar == "rabel_sidebar" %}
 {% assign sidebar = site.data.sidebars.rabel_sidebar.entries %}
 
+{% elsif page.sidebar == "magento2_sidebar" %}
+{% assign sidebar = site.data.sidebars.magento2_sidebar.entries %}
+
 {% else %}
 {% assign sidebar = site.data.sidebars.home_sidebar.entries %}
 {% endif %}

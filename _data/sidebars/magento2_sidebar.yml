@@ -1,9 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Rabel
-  product: Rabel
-  version: 1.0
+- title: Magento2
+  product: Magento2 Articles
   folders:
 
   - title:
@@ -24,7 +23,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /rabel_landing_page.html
+      url: /magento2_landing_page.html
       output: web
 
   - title: Simple Workflow
@@ -32,7 +31,7 @@ entries:
     folderitems:
 
     - title: Sample 1
-      url: /rabel_sample1.html
+      url: /magento2_sample1.html
       output: web, pdf
 
   - title: Complex Workflow
@@ -40,6 +39,6 @@ entries:
     folderitems:
 
     - title: Sample 6
-      url: /rabel_sample6.html
+      url: /magento2_sample6.html
       output: web, pdf
 

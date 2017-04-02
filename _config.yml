@@ -1,4 +1,4 @@
-repository: tomjohnson1492/documentation-theme-jekyll
+repository: https://github.com/gizmocn/cattheme_docs.git
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -29,9 +29,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Cattheme Documents
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: gizmocn@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
