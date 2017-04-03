@@ -1309,6 +1309,24 @@ ul#mysidebar li li a{
     color: #f5f5f5;
 }
 
+body.news .container .row .col-md-3 , body.homepage .container .row .col-md-3, body.post-details .container .row .col-md-3{
+    display: none;
+}
+
+body.news .container .row .col-md-9 , body.homepage .container .row .col-md-9{
+    width: 100%;
+}
+
+body.post-details .post-list{
+    width: 25%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
 
 
 
