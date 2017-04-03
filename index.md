@@ -2,7 +2,7 @@
 title: Recent Document Update
 keywords: update
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: 
 permalink: index.html
 summary: Recent update
 ---
