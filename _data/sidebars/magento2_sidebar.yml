@@ -18,12 +18,12 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Performance
     output: web, pdf
     folderitems:
 
-    - title: Overview
-      url: /magento2_landing_page.html
+    - title: Use Redis for Magento2
+      url: /magento2_redis.html
       output: web
 
   - title: Simple Workflow
